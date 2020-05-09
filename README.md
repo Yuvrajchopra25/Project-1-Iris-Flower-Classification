@@ -1,4 +1,4 @@
-# Project-1-Iris-Flower-Classification
+# Project-1-Iris-Flower-Classification using Sklearn and knn
 
 ## Introduction:
 One of the very famous classification problems in Machine Learning is the IRIS Flower classification problem.
